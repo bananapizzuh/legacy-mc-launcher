@@ -152,7 +152,7 @@
        <widget class="QFrame" name="ProfileFrame">
         <property name="minimumSize">
          <size>
-          <width>240</width>
+          <width>250</width>
           <height>60</height>
          </size>
         </property>
@@ -254,7 +254,7 @@
        <widget class="QFrame" name="UserFrame">
         <property name="minimumSize">
          <size>
-          <width>260</width>
+          <width>250</width>
           <height>60</height>
          </size>
         </property>
@@ -289,7 +289,7 @@
         <widget class="QLabel" name="VersionLabel">
          <property name="geometry">
           <rect>
-           <x>3</x>
+           <x>0</x>
            <y>14</y>
            <width>250</width>
            <height>20</height>
